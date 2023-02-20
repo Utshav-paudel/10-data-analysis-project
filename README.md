@@ -2,4 +2,4 @@
 Welcome to my GitHub repository! Here you will find 10 data analysis projects that showcase my skills and experience in data analytics.
 |Projects|
 |--------|
-| 1.[**Weather data analysis**](project 01 data analysis of weather .ipynb)|
+| 1.[**Weather data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/b2f7afd92d587740746c7d699719faf79ccfcd8f/project%2001%20data%20analysis%20of%20weather%20.ipynb)|
