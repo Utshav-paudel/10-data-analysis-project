@@ -1,5 +1,7 @@
 # 10-data-analysis-project
 Welcome to my GitHub repository! Here you will find 10 data analysis projects that showcase my skills and experience in data analytics.
+
+![alt text](https://github.com/Utshav-paudel/10-data-analysis-project/blob/43e38a62ee8cc04632dfa27d8f13cae1d286eb06/dataset/What_is_Data_Analysis.avif)
 |Projects|
 |--------|
 | 1.[**Weather data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/b2f7afd92d587740746c7d699719faf79ccfcd8f/project%2001%20data%20analysis%20of%20weather%20.ipynb)|
