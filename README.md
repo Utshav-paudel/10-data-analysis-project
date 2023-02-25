@@ -9,3 +9,4 @@ Welcome to my GitHub repository! Here you will find 10 data analysis projects th
 | 3.[**Police data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/413a8cd5abc9199b58ea6b2377224d315ffb31e5/project%2003%20data%20analysis%20of%20police.ipynb)|
 | 4.[**Covid-19 data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/5ade634a1504c1efaf6b2d177c2d7ded51559f66/project%2004%20data%20analysis%20of%20covid-19%20.ipynb)|
 | 5.[**Housing price data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/60e5b63584d43b4192d92d0ca269a19d5e73d485/project%2005%20%20London%20housing%20data%20analysis.ipynb)|
+| 6.[**India census 2011 data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/a7e56c0ad635c6f4a6993a607d8af399784353c0/project%2006%20Data%20analysis%20of%20india%20census%202011.ipynb)|
