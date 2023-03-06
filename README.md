@@ -12,3 +12,4 @@ Welcome to my GitHub repository! Here you will find 10 data analysis projects th
 | 6.[**India census 2011 data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/a7e56c0ad635c6f4a6993a607d8af399784353c0/project%2006%20Data%20analysis%20of%20india%20census%202011.ipynb)|
 | 7.[**Udemy data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/6f815c3c95717fd2b5e1a3d8b63be33cf9d6db12/project%2007%20data%20analysis%20of%20udemy.ipynb)|
 | 8.[**Netflix data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/e462f051bde663f7dfd6d5b18b970b9485e32aef/project%2008%20data%20analysis%20of%20netflix.ipynb)|
+| 9.[**Playstore data analysis**](https://github.com/Utshav-paudel/10-data-analysis-project/blob/5989c85b65a4a2cbb044e400e0118c237526e66a/project%2009%20playstore%20data%20analysis.ipynb)|
