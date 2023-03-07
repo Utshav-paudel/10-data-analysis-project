@@ -1,5 +1,5 @@
 # 10-data-analysis-project
-Welcome to my GitHub repository! Here you will find 10 data analysis projects that showcase my skills and experience in data analytics.
+Welcome to my GitHub repository showcasing 10 data analysis projects that I have completed using pandas. These projects focus on analyzing data using various techniques such as statistical analysis, data cleaning and data formatting. While visualization is an important aspect of data analysis, the focus of these projects is mainly on the analysis itself. Each project contains a detailed description and documentation to help you understand the methods used and results obtained. Check out the code and feel free to use it as inspiration for your own data analysis projects. #dataanalysis #pandas #datascience #github.
 
 ![alt text](https://github.com/Utshav-paudel/10-data-analysis-project/blob/43e38a62ee8cc04632dfa27d8f13cae1d286eb06/dataset/What_is_Data_Analysis.avif)
 |Projects|
